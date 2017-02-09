@@ -12,12 +12,15 @@ content {
 	text-align: center;
     background-color: #ebebeb;
     height: 70px;
+    color: #777;
+
 }
 .nav {
 	border: 1px none;
 	text-align: center;
     background-color: #ebebeb;
     height: 70px;
+    color: #777;
 }
 .container {
     margin: auto;
@@ -32,23 +35,27 @@ content {
 	text-align: center;
     background-color: #ebebeb;
     float: left;
+    color: #777;
 }
 .article {
 	border: 1px none;
 	text-align: center;
     background-color: #777;
     padding: 20px;
+    color: #ebebeb;
 }
 .p {
     border: 1px solid white;
     text-align: center;
     background-color: #ebebeb;
+    color: #777;
 }
 .p2 {
     border: 1px solid white;
     text-align: center;
     background-color: #ebebeb;
     height: 60px;
+    color: #777;
 }
 .aside {
 	width: 400px;
@@ -59,6 +66,7 @@ content {
 	text-align: center;
     float: right;
     background-color: #ebebeb;
+    color: #777;
 }
 .footer {
 	border: 1px solid white;
@@ -72,4 +80,5 @@ content {
     left: 0;
     right: 0;
     height: 50px;
+    color: #777;
 }
