@@ -63,6 +63,11 @@ content {
 	text-align: center;
     background-color: #ebebeb;
     height: 70px;
+    width: 960px;
     clear: both;
-    margin-top: 20px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
 }
